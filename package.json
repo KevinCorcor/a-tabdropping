@@ -1,0 +1,25 @@
+{
+  "name": "@marko-tags/a-tabdropping",
+  "version": "1.0.0",
+  "description": "This module aims to set `rel='noopener noreferrer on all `<a>` elements which have an external link. (ie. `target='_blank')",
+  "main": "",
+  "dependencies": {
+    "marko": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinCorcor/a-tabdropping.git"
+  },
+  "keywords": [
+    "marko",
+    "overide",
+    "tabnabbing",
+    "a"
+  ],
+  "author": "Kevin Corcoran",
+  "license": "ISC"
+}
