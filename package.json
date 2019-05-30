@@ -1,5 +1,5 @@
 {
-  "name": "@marko-tags/a-tabdropping",
+  "name": "a-tabdropping",
   "version": "1.0.0",
   "description": "This module aims to set `rel='noopener noreferrer on all `<a>` elements which have an external link. (ie. `target='_blank')",
   "main": "",
