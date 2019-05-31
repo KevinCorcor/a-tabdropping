@@ -1,6 +1,6 @@
 {
   "name": "a-tabdropping",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module aims to set `rel='noopener noreferrer on all `<a>` elements which have an external link. (ie. `target='_blank')",
   "main": "",
   "dependencies": {
